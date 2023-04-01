@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SDcard_create">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B789071_현동엽" />
+
+    <Button
+        android:id="@+id/btnmkdir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SD카드에 디렉토리 생성" />
+
+    <Button
+        android:id="@+id/btnrmdir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SD카드에서 디렉토리 삭제" />
+
+</LinearLayout>

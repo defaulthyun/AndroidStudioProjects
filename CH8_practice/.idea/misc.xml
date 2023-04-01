@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hansung/AndroidStudioProjects/CH8_practice/app/src/main/res/layout/activity_file_access.xml" value="0.1" />
+        <entry key="..\:/Users/Hansung/AndroidStudioProjects/CH8_practice/app/src/main/res/layout/activity_file_process_basic.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Hansung/AndroidStudioProjects/CH8_practice/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Hansung/AndroidStudioProjects/CH8_practice/app/src/main/res/layout/activity_raw_file.xml" value="0.1" />
+        <entry key="..\:/Users/Hansung/AndroidStudioProjects/CH8_practice/app/src/main/res/layout/activity_sdcard.xml" value="0.1" />
+        <entry key="..\:/Users/Hansung/AndroidStudioProjects/CH8_practice/app/src/main/res/layout/activity_sdcard_create.xml" value="0.1" />
+        <entry key="..\:/Users/Hansung/AndroidStudioProjects/CH8_practice/app/src/main/res/layout/activity_sdcard_read.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

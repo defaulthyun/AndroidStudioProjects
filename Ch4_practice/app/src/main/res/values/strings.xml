@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ch4_practice</string>
+    <string name="under_name">아래에 이름을 입력 :</string>
+    <string name="edit_text_name">여기에 채우세요</string>
+    <string name="ok">확인</string>
+    <string name="student_name">B789071_현동엽</string>
+
+</resources>
